@@ -4,7 +4,7 @@ import db
 import stats
 from datetime import date
 
-TOKEN = '8564877978:AAEIpBye8HB4TvaFaLsja6VyFnczHOpTSMs'
+TOKEN = 'токен'
 bot = telebot.TeleBot(TOKEN)
 u = {} 
 
